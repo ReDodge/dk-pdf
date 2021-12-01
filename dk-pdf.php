@@ -113,7 +113,7 @@ function DKPDF() {
 		deactivate_plugins( '/dk-pdf/dk-pdf.php' );
 
 		wp_die(
-			'<p>' . 'DK PDF can not be activated because it requires at least PHP version 5.6.0. '
+			'<p>' . 'DK PDF can not be activated because it requires at least PHP version 7.4.0. '
 			. 'In case you can not update PHP, here you can <a href="'. esc_url('https://github.com/Dinamiko/dk-pdf/releases/tag/v1.9.3') .'" target="_blank">download DK PDF 1.9.3</a> which works with PHP 5.3 and above.'
 			. '</p>'
 			. '<a href="' . admin_url( 'plugins.php' ) . '">' . esc_attr__( 'Back', 'dkpdf' ) . '</a>'

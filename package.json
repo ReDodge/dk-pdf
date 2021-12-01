@@ -1,11 +1,11 @@
 {
-  "name": "dk-pdf",
+  "name": "dk-pdf php 7.4",
   "version": "1.9.2",
   "description": "WordPress to PDF made easy.",
   "author": "Emili Castells",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-zip": "^4.0.0"
+    "gulp": "^4.0.2",
+    "gulp-zip": "^4.2.0"
   }
 }
