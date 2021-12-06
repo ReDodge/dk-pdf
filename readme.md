@@ -37,7 +37,8 @@ Installing "DK PDF" can be done either by searching for "DK PDF" via the "Plugin
 2. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
-Or Install Manually and don't forget to install php-gd
+Or Install Manually 
+# Don't forget to install php-gd and php-mbstring
 
 ## == Debug ==
 
