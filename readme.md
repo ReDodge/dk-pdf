@@ -38,7 +38,8 @@ Installing "DK PDF" can be done either by searching for "DK PDF" via the "Plugin
 3. Activate the plugin through the 'Plugins' menu in WordPress
 
 Or Install Manually 
-# Don't forget to install php-gd and php-mbstring
+
+### Don't forget to install php-gd and php-mbstring
 
 ## == Debug ==
 
